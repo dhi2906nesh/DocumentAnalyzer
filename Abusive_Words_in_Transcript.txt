@@ -1,0 +1,10 @@
+Document State: Average
+
+Total words (after removing stopwords): 98
+Number of abusive words found: 3
+Percentage of abusive words: 3.06%
+
+Abusive words and their probabilities:
+ass: 0.9724
+bitch: 0.9967
+fuck: 0.9976
